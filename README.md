@@ -28,6 +28,8 @@ Feel free to reach out via email: ad.vissani@gmail.com
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 
 ### Web Design and Development:
