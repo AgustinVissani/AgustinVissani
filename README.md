@@ -12,7 +12,7 @@ Feel free to reach out via email: ad.vissani@gmail.com
 
 ## Projects
 
-### Frontend Developer - Personal Project
+### Frontend Developer 
 [Choose Your Country](https://choose-your-country.com/)
 
 - Developed a dynamic, user-friendly web application using React.
